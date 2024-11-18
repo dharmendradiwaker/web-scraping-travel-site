@@ -43,7 +43,7 @@ We are scraping the travel guide section of the *Travel and Leisure* website:
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-username/web-scraping-travel-site.git  
+   git clone https://github.com/dharmendradiwaker/web-scraping-travel-site.git 
    cd web-scraping-travel-site  
    ```  
 
